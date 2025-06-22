@@ -1,6 +1,6 @@
 # Clone the repository
 
-git clone https://github.com/your-username/devbox.git
+git clone https://github.com/ChetanKademani/devbox.git
 
 # Navigate into the project directory
 
